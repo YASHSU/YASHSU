@@ -35,8 +35,8 @@
 <a href="https://twitter.com/yashuchandrakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yashuchandrakar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/suyash-chandrakar-982aa3171" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suyash-chandrakar-982aa3171" height="30" width="40" /></a>
 <a href="https://medium.com/@suyashchandrakar03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@suyashchandrakar03" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/suyashchandrakar03" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="suyashchandrakar03" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/suyashchandrakar03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="suyashchandrakar03" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/suyashchandrakar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="suyashchandrakar03" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/suyashchandrakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="suyashchandrakar" height="30" width="40" /></a>
 <a href="/https://www.showwcase.com/yashsu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.showwcase.com/yashsu" height="30" width="40" /></a>
 </p>
 
