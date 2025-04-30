@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/yashuchandrakar" target="blank"><img src="https://img.shields.io/twitter/follow/yashuchandrakar?logo=twitter&style=for-the-badge" alt="yashuchandrakar" /></a> </p>
 
-- 🌱 I’m currently learning **express, node, MongoDB**
+- 🌱 I’m currently learning **System Architecture (MVC, MVVC) & more**
 
 - 👨‍💻 All of my projects are available at [https://suyashchandrakar.carrd.co/](https://suyashchandrakar.carrd.co/)
 
