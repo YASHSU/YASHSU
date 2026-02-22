@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **System Architecture (MVC, MVVC) & more**
 
-- 👨‍💻 All of my projects are available at [https://suyashchandrakar.carrd.co/](https://suyashchandrakar.carrd.co/)
+- 👨‍💻 All of my projects are available at [https://suyashchandrakar.vercel.app/](https://suyashchandrakar.vercel.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@suyashchandrakar03](https://medium.com/@suyashchandrakar03)
 
